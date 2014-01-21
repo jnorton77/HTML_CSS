@@ -1,11 +1,11 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  color: #FAF3BC;
+  color: #000000;
   background: #FFFFFF url('img/purty_wood.png') repeat;
 }
 
 a {
-  color: #4FB69F;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-size: 1.500em;
-  color: #B4C34F;
+  color: #000000;
 }
 
 h3 {
@@ -46,11 +46,11 @@ ul.nav {
 
 ul.nav li {
   float: left;
-  margin-right: 40px;
+  margin-right: 100px;
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: #000000;
 }
 
 #logo img {
@@ -59,7 +59,7 @@ ul.nav li a {
 }
 
 #intro {
-  margin: 50px 0 75px 0;
+  margin: 10px 0 10px 0;
 }
 
 #new-cupcakes img {
