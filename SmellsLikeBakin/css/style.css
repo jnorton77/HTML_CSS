@@ -1,7 +1,7 @@
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #FAF3BC;
-  background: #420600 url('img/bg-texture.jpg') repeat;
+  background: #FFFFFF url('img/purty_wood.png') repeat;
 }
 
 a {
@@ -19,6 +19,12 @@ h2 {
   color: #B4C34F;
 }
 
+h3 {
+  font-family: 'Source Code Pro', sans-serif;
+  font-size: 1.900em;
+  color: #000000;
+}
+
 .btn {
   color: #FAF3BC;
   background: #4FB69F url('img/texture.png') no-repeat right top;
@@ -33,7 +39,7 @@ h2 {
 }
 
 ul.nav {
-  margin: 120px 0 0 0;
+  margin: 50px 0 0 0;
   list-style: none;
   float: right;
 }
@@ -45,6 +51,11 @@ ul.nav li {
 
 ul.nav li a {
   color: #FAF3BC;
+}
+
+#logo img {
+  border: 8px solid #000000;
+  margin: 20px 0 0 0;
 }
 
 #intro {
